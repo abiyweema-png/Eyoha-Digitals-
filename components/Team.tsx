@@ -3,11 +3,11 @@ import type { TeamMember } from '../types';
 
 const teamMembers: TeamMember[] = [
   {
-    name: 'Yonas Negesse',
+    name: 'Yonas Negese',
     role: 'Cofounder, CEO & Systems Specialist',
-    image: '', // Image removed as per request
+    image: '',
     skills: [
-      'Streamlines business operations with digital systems and ERP solutions.',
+      'Streamlines business operations with digital systems,AI and ERP solutions.',
       'Expert in ERP integration and business automation.',
       'Customizes systems for accounting, HR, inventory, and workflow.',
       'Helps clients reduce costs and increase operational efficiency.',

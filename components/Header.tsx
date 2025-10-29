@@ -26,7 +26,7 @@ const Header: React.FC = () => {
     <header className="bg-white sticky top-0 z-50 shadow-md">
       <nav className="max-w-6xl mx-auto px-5 h-20 flex justify-between items-center">
         <a href="#hero" className="flex-shrink-0">
-          <img src="/assets/logo.png" alt="Eyoha Digitals Logo" className="h-12" />
+          <img src="/assets/eyoha_logo.jpg" alt="Eyoha Digitals Logo" className="h-20" />
         </a>
         
         {/* Desktop Menu */}
